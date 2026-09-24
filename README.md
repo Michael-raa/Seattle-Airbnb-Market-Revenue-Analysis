@@ -25,3 +25,6 @@ This project analyzes the Seattle Airbnb market to evaluate pricing trends, reve
 ---
 ### 🖼️ Dashboard Preview
 <img width="1340" height="543" alt="Screenshot 2026-09-24 041445" src="https://github.com/user-attachments/assets/5ba4a761-b34e-45ee-84a8-5340108d7363" />
+
+## Dataset Link
+https://www.kaggle.com/datasets/airbnb/seattle
